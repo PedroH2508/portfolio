@@ -1,0 +1,5 @@
+# Fotos originais em alta resolução (as páginas usam as versões otimizadas em images/web)
+images/*.jpg
+
+# Configuração local do editor/assistente
+.claude/
